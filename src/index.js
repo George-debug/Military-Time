@@ -4,6 +4,9 @@ import './style/basic.css'
 import * as serviceWorker from './serviceWorker'
 
 import App from './apps/militaryTime/App.jsx'
+import vChecker from './apps/militaryTime/components/vChecker.js'
+
+vChecker()
 
 ReactDOM.render(
     <App />,
