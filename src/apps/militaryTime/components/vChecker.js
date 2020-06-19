@@ -9,8 +9,6 @@ export default function vChecker(){
     alert(msg)
     return
   }
-
-  alert()
   
   let version = parseFloat(info.version)
   let name = info.name
