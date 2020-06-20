@@ -11,12 +11,15 @@ export const bg = [
     'linear-gradient(to bottom, #232864, #1a619b)',
     'linear-gradient(to bottom, #f09c86, #d55790)'
 ]
-
+/*
 export const configA = {
     tension: 120,
     friction: 14,
     clamp: true
   }
+*/
+
+export const configA = { duration: 250 }
 
 export const ss = [
     {
