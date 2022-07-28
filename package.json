@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "time",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +11,7 @@
     "react": "^16.13.1",
     "react-device-detect": "^1.12.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^5.0.1",
     "react-spring": "^8.0.27"
   },
   "scripts": {
