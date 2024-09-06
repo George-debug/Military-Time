@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "detect-browser": "^5.1.1",
     "react": "^16.13.1",
-    "react-device-detect": "^1.12.1",
+    "react-device-detect": "^2.2.3",
     "react-dom": "^16.13.1",
     "react-scripts": "^5.0.1",
     "react-spring": "^8.0.27"
